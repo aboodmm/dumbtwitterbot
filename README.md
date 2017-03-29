@@ -1,1 +1,1 @@
-# dumbtwitterbot
+A very simple twitter bot 
